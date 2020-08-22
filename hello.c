@@ -10,5 +10,6 @@
 
  int main(int argc, char **argv) {
 
-     printf("hello world!\n");
+     printf("dat doan!\n");
+     return 0;
  }
