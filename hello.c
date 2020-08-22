@@ -11,5 +11,6 @@
  int main(int argc, char **argv) {
 
      printf("dat doan!\n");
+ printf("electrical engineerin\n"); 
      return 0;
  }
